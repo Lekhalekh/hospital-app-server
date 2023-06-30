@@ -1,0 +1,18 @@
+{
+  "name": "new-nodeproject",
+  "version": "1.0.0",
+  "description": "basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "LEKHA",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "modules": "^0.4.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
